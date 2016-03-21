@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <SiteCode>PZ1</SiteCode>
+    <PrimarySiteServer>SCCM1</PrimarySiteServer>
+    <Domain>PETTING-ZOO</Domain>
+</settings>
